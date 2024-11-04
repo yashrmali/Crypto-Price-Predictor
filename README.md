@@ -20,17 +20,12 @@ This project utilizes historical cryptocurrency data to predict future price mov
 
 ## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/crypto-price-prediction.git
-   cd crypto-price-prediction
-   ```
-2. Install required packages:
+1. Install required packages:
 
 ```bash
 pip install -r requirements.txt
 ```
-3. Add your CoinGecko API key in the script where indicated.
+2. Add your CoinGecko API key in the script where indicated.
 
 ## 📋 Usage
 Run the main script to fetch data, calculate metrics, train the model, and make predictions:
